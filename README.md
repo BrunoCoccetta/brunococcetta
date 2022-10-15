@@ -1,16 +1,24 @@
-### Hi there 👋
+<h2 align="center">
+    Hi there 👋
+</h2>
 
-<!--
-**BrunoCoccetta/brunococcetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
+const bruno = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["music", "tech", "game"],
+    technologies: {
+        frontEnd: {
+            css: ["bootstrap", "sass"]
+        },
+        backEnd: ["Java", "PHP","Python"],
+        databases: ["MySql"],
+    }
+};
+```
+<h2 align="center">
+    👋 Reach out to me 
+</h2>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Twitter: BrunoCoccetta](https://img.shields.io/twitter/follow/hebrone_?style=social)](https://twitter.com/hebrone_)
+[![Linkedin: BrunoCoccetta](https://img.shields.io/badge/-BrunoCoccetta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/BrunoCoccetta/)](https://www.linkedin.com/in/bruno-coccetta-28532421b/)
+[![GitHub BrunoCoccetta](https://img.shields.io/github/followers/BrunoCoccetta?label=follow&style=social)](https://github.com/BrunoCoccetta)
