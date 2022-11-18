@@ -10,7 +10,7 @@ const bruno = {
         frontEnd: {
             css: ["bootstrap", "sass"]
         },
-        backEnd: ["Java", "PHP","Python"],
+        backEnd: ["Java"],
         databases: ["MySql"],
     }
 };
